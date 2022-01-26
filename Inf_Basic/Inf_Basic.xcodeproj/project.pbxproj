@@ -15,6 +15,7 @@
 		F010C24B27A179AD0055FAB3 /* Shape.swift in Sources */ = {isa = PBXBuildFile; fileRef = F010C24A27A179AD0055FAB3 /* Shape.swift */; };
 		F010C24F27A17CB90055FAB3 /* MyButtonTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F010C24E27A17CB90055FAB3 /* MyButtonTest.swift */; };
 		F01CB7AA27A1876C00066F97 /* MyToggleTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01CB7A927A1876C00066F97 /* MyToggleTest.swift */; };
+		F01CB7AC27A1900900066F97 /* MyListTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01CB7AB27A1900900066F97 /* MyListTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		F010C24A27A179AD0055FAB3 /* Shape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shape.swift; sourceTree = "<group>"; };
 		F010C24E27A17CB90055FAB3 /* MyButtonTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButtonTest.swift; sourceTree = "<group>"; };
 		F01CB7A927A1876C00066F97 /* MyToggleTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyToggleTest.swift; sourceTree = "<group>"; };
+		F01CB7AB27A1900900066F97 /* MyListTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyListTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,14 +61,15 @@
 		F010C23327A170F40055FAB3 /* Inf_Basic */ = {
 			isa = PBXGroup;
 			children = (
+				F01CB7A927A1876C00066F97 /* MyToggleTest.swift */,
+				F010C24A27A179AD0055FAB3 /* Shape.swift */,
 				F010C24E27A17CB90055FAB3 /* MyButtonTest.swift */,
 				F010C24327A177C30055FAB3 /* SF_symbols.swift */,
 				F010C23427A170F40055FAB3 /* Inf_BasicApp.swift */,
 				F010C23627A170F40055FAB3 /* ContentView.swift */,
 				F010C23827A170F50055FAB3 /* Assets.xcassets */,
 				F010C23A27A170F50055FAB3 /* Preview Content */,
-				F010C24A27A179AD0055FAB3 /* Shape.swift */,
-				F01CB7A927A1876C00066F97 /* MyToggleTest.swift */,
+				F01CB7AB27A1900900066F97 /* MyListTest.swift */,
 			);
 			path = Inf_Basic;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				F010C24F27A17CB90055FAB3 /* MyButtonTest.swift in Sources */,
 				F010C24427A177C30055FAB3 /* SF_symbols.swift in Sources */,
+				F01CB7AC27A1900900066F97 /* MyListTest.swift in Sources */,
 				F010C23727A170F40055FAB3 /* ContentView.swift in Sources */,
 				F01CB7AA27A1876C00066F97 /* MyToggleTest.swift in Sources */,
 				F010C23527A170F40055FAB3 /* Inf_BasicApp.swift in Sources */,
