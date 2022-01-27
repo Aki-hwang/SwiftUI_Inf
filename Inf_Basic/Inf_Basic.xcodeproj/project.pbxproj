@@ -16,6 +16,13 @@
 		F010C24F27A17CB90055FAB3 /* MyButtonTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F010C24E27A17CB90055FAB3 /* MyButtonTest.swift */; };
 		F01CB7AA27A1876C00066F97 /* MyToggleTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01CB7A927A1876C00066F97 /* MyToggleTest.swift */; };
 		F01CB7AC27A1900900066F97 /* MyListTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01CB7AB27A1900900066F97 /* MyListTest.swift */; };
+		F01CB7AE27A2AD0900066F97 /* MyListSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01CB7AD27A2AD0900066F97 /* MyListSection.swift */; };
+		F01CB7B027A2B3F200066F97 /* My viewmodifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01CB7AF27A2B3F200066F97 /* My viewmodifier.swift */; };
+		F01CB7B227A2B76000066F97 /* Myalertview.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01CB7B127A2B76000066F97 /* Myalertview.swift */; };
+		F01D5D8A27A2BB5000E92716 /* MywebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01D5D8927A2BB5000E92716 /* MywebView.swift */; };
+		F01D5D8C27A2BE6900E92716 /* Mywebview2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01D5D8B27A2BE6900E92716 /* Mywebview2.swift */; };
+		F01D5D8E27A2C08400E92716 /* MywebviewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01D5D8D27A2C08400E92716 /* MywebviewController.swift */; };
+		F01D5D9027A2C09900E92716 /* MywebviewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F01D5D8F27A2C09900E92716 /* MywebviewController.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +36,13 @@
 		F010C24E27A17CB90055FAB3 /* MyButtonTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButtonTest.swift; sourceTree = "<group>"; };
 		F01CB7A927A1876C00066F97 /* MyToggleTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyToggleTest.swift; sourceTree = "<group>"; };
 		F01CB7AB27A1900900066F97 /* MyListTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyListTest.swift; sourceTree = "<group>"; };
+		F01CB7AD27A2AD0900066F97 /* MyListSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyListSection.swift; sourceTree = "<group>"; };
+		F01CB7AF27A2B3F200066F97 /* My viewmodifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "My viewmodifier.swift"; sourceTree = "<group>"; };
+		F01CB7B127A2B76000066F97 /* Myalertview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Myalertview.swift; sourceTree = "<group>"; };
+		F01D5D8927A2BB5000E92716 /* MywebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MywebView.swift; sourceTree = "<group>"; };
+		F01D5D8B27A2BE6900E92716 /* Mywebview2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mywebview2.swift; sourceTree = "<group>"; };
+		F01D5D8D27A2C08400E92716 /* MywebviewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MywebviewController.swift; sourceTree = "<group>"; };
+		F01D5D8F27A2C09900E92716 /* MywebviewController.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = MywebviewController.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,8 +82,15 @@
 				F010C23427A170F40055FAB3 /* Inf_BasicApp.swift */,
 				F010C23627A170F40055FAB3 /* ContentView.swift */,
 				F010C23827A170F50055FAB3 /* Assets.xcassets */,
-				F010C23A27A170F50055FAB3 /* Preview Content */,
 				F01CB7AB27A1900900066F97 /* MyListTest.swift */,
+				F01CB7AD27A2AD0900066F97 /* MyListSection.swift */,
+				F01CB7AF27A2B3F200066F97 /* My viewmodifier.swift */,
+				F01CB7B127A2B76000066F97 /* Myalertview.swift */,
+				F01D5D8927A2BB5000E92716 /* MywebView.swift */,
+				F01D5D8B27A2BE6900E92716 /* Mywebview2.swift */,
+				F01D5D8D27A2C08400E92716 /* MywebviewController.swift */,
+				F01D5D8F27A2C09900E92716 /* MywebviewController.storyboard */,
+				F010C23A27A170F50055FAB3 /* Preview Content */,
 			);
 			path = Inf_Basic;
 			sourceTree = "<group>";
@@ -142,6 +163,7 @@
 			files = (
 				F010C23C27A170F50055FAB3 /* Preview Assets.xcassets in Resources */,
 				F010C23927A170F50055FAB3 /* Assets.xcassets in Resources */,
+				F01D5D9027A2C09900E92716 /* MywebviewController.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -152,13 +174,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F01D5D8C27A2BE6900E92716 /* Mywebview2.swift in Sources */,
+				F01D5D8E27A2C08400E92716 /* MywebviewController.swift in Sources */,
 				F010C24F27A17CB90055FAB3 /* MyButtonTest.swift in Sources */,
 				F010C24427A177C30055FAB3 /* SF_symbols.swift in Sources */,
 				F01CB7AC27A1900900066F97 /* MyListTest.swift in Sources */,
 				F010C23727A170F40055FAB3 /* ContentView.swift in Sources */,
+				F01D5D8A27A2BB5000E92716 /* MywebView.swift in Sources */,
 				F01CB7AA27A1876C00066F97 /* MyToggleTest.swift in Sources */,
+				F01CB7AE27A2AD0900066F97 /* MyListSection.swift in Sources */,
 				F010C23527A170F40055FAB3 /* Inf_BasicApp.swift in Sources */,
+				F01CB7B227A2B76000066F97 /* Myalertview.swift in Sources */,
 				F010C24B27A179AD0055FAB3 /* Shape.swift in Sources */,
+				F01CB7B027A2B3F200066F97 /* My viewmodifier.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
