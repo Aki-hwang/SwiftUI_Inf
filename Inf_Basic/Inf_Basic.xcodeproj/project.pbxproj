@@ -35,6 +35,7 @@
 		F05E3CDB27A3DD9F00D878BC /* MyStateObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05E3CDA27A3DD9F00D878BC /* MyStateObject.swift */; };
 		F05E3CDD27A3E16C00D878BC /* MyAppStoreage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05E3CDC27A3E16C00D878BC /* MyAppStoreage.swift */; };
 		F0CF8DCA27A3A493007653F7 /* MyTextEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0CF8DC927A3A493007653F7 /* MyTextEditor.swift */; };
+		F0CF984027A42D1000A21399 /* MygridApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0CF983F27A42D1000A21399 /* MygridApp.swift */; };
 		F0DF58DC27A399FB001652C7 /* MyTabview.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0DF58DB27A399FB001652C7 /* MyTabview.swift */; };
 		F0DF58DE27A39B1F001652C7 /* MyToggleBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0DF58DD27A39B1F001652C7 /* MyToggleBasic.swift */; };
 /* End PBXBuildFile section */
@@ -69,6 +70,7 @@
 		F05E3CDA27A3DD9F00D878BC /* MyStateObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStateObject.swift; sourceTree = "<group>"; };
 		F05E3CDC27A3E16C00D878BC /* MyAppStoreage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAppStoreage.swift; sourceTree = "<group>"; };
 		F0CF8DC927A3A493007653F7 /* MyTextEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTextEditor.swift; sourceTree = "<group>"; };
+		F0CF983F27A42D1000A21399 /* MygridApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MygridApp.swift; sourceTree = "<group>"; };
 		F0DF58DB27A399FB001652C7 /* MyTabview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTabview.swift; sourceTree = "<group>"; };
 		F0DF58DD27A39B1F001652C7 /* MyToggleBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyToggleBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -87,6 +89,7 @@
 		F010C22827A170F40055FAB3 = {
 			isa = PBXGroup;
 			children = (
+				F0CF983F27A42D1000A21399 /* MygridApp.swift */,
 				F010C23327A170F40055FAB3 /* Inf_Basic */,
 				F010C23227A170F40055FAB3 /* Products */,
 			);
@@ -227,6 +230,7 @@
 				F01CB7AC27A1900900066F97 /* MyListTest.swift in Sources */,
 				F05E3CD327A3CE0600D878BC /* MyState.swift in Sources */,
 				F01D5D9627A2D37800E92716 /* MyPlaceholder.swift in Sources */,
+				F0CF984027A42D1000A21399 /* MygridApp.swift in Sources */,
 				F010C23727A170F40055FAB3 /* ContentView.swift in Sources */,
 				F05E3CD927A3D8D400D878BC /* MyEnvironmentView.swift in Sources */,
 				F01D5D8A27A2BB5000E92716 /* MywebView.swift in Sources */,
