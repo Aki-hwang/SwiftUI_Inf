@@ -27,6 +27,9 @@
 		F01D5D9427A2D04900E92716 /* MyGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01D5D9327A2D04900E92716 /* MyGrid.swift */; };
 		F01D5D9627A2D37800E92716 /* MyPlaceholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01D5D9527A2D37800E92716 /* MyPlaceholder.swift */; };
 		F01D5D9827A2D64E00E92716 /* MynavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01D5D9727A2D64E00E92716 /* MynavigationView.swift */; };
+		F0CF8DCA27A3A493007653F7 /* MyTextEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0CF8DC927A3A493007653F7 /* MyTextEditor.swift */; };
+		F0DF58DC27A399FB001652C7 /* MyTabview.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0DF58DB27A399FB001652C7 /* MyTabview.swift */; };
+		F0DF58DE27A39B1F001652C7 /* MyToggleBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0DF58DD27A39B1F001652C7 /* MyToggleBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +54,9 @@
 		F01D5D9327A2D04900E92716 /* MyGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGrid.swift; sourceTree = "<group>"; };
 		F01D5D9527A2D37800E92716 /* MyPlaceholder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPlaceholder.swift; sourceTree = "<group>"; };
 		F01D5D9727A2D64E00E92716 /* MynavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MynavigationView.swift; sourceTree = "<group>"; };
+		F0CF8DC927A3A493007653F7 /* MyTextEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTextEditor.swift; sourceTree = "<group>"; };
+		F0DF58DB27A399FB001652C7 /* MyTabview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTabview.swift; sourceTree = "<group>"; };
+		F0DF58DD27A39B1F001652C7 /* MyToggleBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyToggleBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +109,9 @@
 				F01D5D9127A2D01400E92716 /* MyWebViewJsbridge.swift */,
 				F01D5D9527A2D37800E92716 /* MyPlaceholder.swift */,
 				F01D5D9727A2D64E00E92716 /* MynavigationView.swift */,
+				F0DF58DB27A399FB001652C7 /* MyTabview.swift */,
+				F0DF58DD27A39B1F001652C7 /* MyToggleBasic.swift */,
+				F0CF8DC927A3A493007653F7 /* MyTextEditor.swift */,
 			);
 			path = Inf_Basic;
 			sourceTree = "<group>";
@@ -196,6 +205,8 @@
 				F01D5D9627A2D37800E92716 /* MyPlaceholder.swift in Sources */,
 				F010C23727A170F40055FAB3 /* ContentView.swift in Sources */,
 				F01D5D8A27A2BB5000E92716 /* MywebView.swift in Sources */,
+				F0DF58DE27A39B1F001652C7 /* MyToggleBasic.swift in Sources */,
+				F0DF58DC27A399FB001652C7 /* MyTabview.swift in Sources */,
 				F01CB7AA27A1876C00066F97 /* MyToggleTest.swift in Sources */,
 				F01CB7AE27A2AD0900066F97 /* MyListSection.swift in Sources */,
 				F010C23527A170F40055FAB3 /* Inf_BasicApp.swift in Sources */,
@@ -203,6 +214,7 @@
 				F010C24B27A179AD0055FAB3 /* Shape.swift in Sources */,
 				F01CB7B027A2B3F200066F97 /* My viewmodifier.swift in Sources */,
 				F01D5D9827A2D64E00E92716 /* MynavigationView.swift in Sources */,
+				F0CF8DCA27A3A493007653F7 /* MyTextEditor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

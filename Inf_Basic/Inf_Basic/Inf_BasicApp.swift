@@ -11,7 +11,7 @@ import SwiftUI
 struct Inf_BasicApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MyTextEditor()
         }
     }
 }
