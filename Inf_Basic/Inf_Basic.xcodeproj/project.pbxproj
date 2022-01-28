@@ -27,6 +27,13 @@
 		F01D5D9427A2D04900E92716 /* MyGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01D5D9327A2D04900E92716 /* MyGrid.swift */; };
 		F01D5D9627A2D37800E92716 /* MyPlaceholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01D5D9527A2D37800E92716 /* MyPlaceholder.swift */; };
 		F01D5D9827A2D64E00E92716 /* MynavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F01D5D9727A2D64E00E92716 /* MynavigationView.swift */; };
+		F05A621527A3C9D300D0FC00 /* Myscrollview.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05A621427A3C9D300D0FC00 /* Myscrollview.swift */; };
+		F05E3CD327A3CE0600D878BC /* MyState.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05E3CD227A3CE0600D878BC /* MyState.swift */; };
+		F05E3CD527A3D13400D878BC /* MybindView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05E3CD427A3D13400D878BC /* MybindView.swift */; };
+		F05E3CD727A3D4B400D878BC /* MyObservableObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05E3CD627A3D4B400D878BC /* MyObservableObject.swift */; };
+		F05E3CD927A3D8D400D878BC /* MyEnvironmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05E3CD827A3D8D400D878BC /* MyEnvironmentView.swift */; };
+		F05E3CDB27A3DD9F00D878BC /* MyStateObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05E3CDA27A3DD9F00D878BC /* MyStateObject.swift */; };
+		F05E3CDD27A3E16C00D878BC /* MyAppStoreage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05E3CDC27A3E16C00D878BC /* MyAppStoreage.swift */; };
 		F0CF8DCA27A3A493007653F7 /* MyTextEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0CF8DC927A3A493007653F7 /* MyTextEditor.swift */; };
 		F0DF58DC27A399FB001652C7 /* MyTabview.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0DF58DB27A399FB001652C7 /* MyTabview.swift */; };
 		F0DF58DE27A39B1F001652C7 /* MyToggleBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0DF58DD27A39B1F001652C7 /* MyToggleBasic.swift */; };
@@ -54,6 +61,13 @@
 		F01D5D9327A2D04900E92716 /* MyGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGrid.swift; sourceTree = "<group>"; };
 		F01D5D9527A2D37800E92716 /* MyPlaceholder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPlaceholder.swift; sourceTree = "<group>"; };
 		F01D5D9727A2D64E00E92716 /* MynavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MynavigationView.swift; sourceTree = "<group>"; };
+		F05A621427A3C9D300D0FC00 /* Myscrollview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Myscrollview.swift; sourceTree = "<group>"; };
+		F05E3CD227A3CE0600D878BC /* MyState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyState.swift; sourceTree = "<group>"; };
+		F05E3CD427A3D13400D878BC /* MybindView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MybindView.swift; sourceTree = "<group>"; };
+		F05E3CD627A3D4B400D878BC /* MyObservableObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyObservableObject.swift; sourceTree = "<group>"; };
+		F05E3CD827A3D8D400D878BC /* MyEnvironmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyEnvironmentView.swift; sourceTree = "<group>"; };
+		F05E3CDA27A3DD9F00D878BC /* MyStateObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStateObject.swift; sourceTree = "<group>"; };
+		F05E3CDC27A3E16C00D878BC /* MyAppStoreage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAppStoreage.swift; sourceTree = "<group>"; };
 		F0CF8DC927A3A493007653F7 /* MyTextEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTextEditor.swift; sourceTree = "<group>"; };
 		F0DF58DB27A399FB001652C7 /* MyTabview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTabview.swift; sourceTree = "<group>"; };
 		F0DF58DD27A39B1F001652C7 /* MyToggleBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyToggleBasic.swift; sourceTree = "<group>"; };
@@ -112,6 +126,13 @@
 				F0DF58DB27A399FB001652C7 /* MyTabview.swift */,
 				F0DF58DD27A39B1F001652C7 /* MyToggleBasic.swift */,
 				F0CF8DC927A3A493007653F7 /* MyTextEditor.swift */,
+				F05A621427A3C9D300D0FC00 /* Myscrollview.swift */,
+				F05E3CD227A3CE0600D878BC /* MyState.swift */,
+				F05E3CD427A3D13400D878BC /* MybindView.swift */,
+				F05E3CD627A3D4B400D878BC /* MyObservableObject.swift */,
+				F05E3CD827A3D8D400D878BC /* MyEnvironmentView.swift */,
+				F05E3CDA27A3DD9F00D878BC /* MyStateObject.swift */,
+				F05E3CDC27A3E16C00D878BC /* MyAppStoreage.swift */,
 			);
 			path = Inf_Basic;
 			sourceTree = "<group>";
@@ -199,18 +220,25 @@
 				F01D5D9227A2D01400E92716 /* MyWebViewJsbridge.swift in Sources */,
 				F01D5D8E27A2C08400E92716 /* MywebviewController.swift in Sources */,
 				F01D5D9427A2D04900E92716 /* MyGrid.swift in Sources */,
+				F05E3CDB27A3DD9F00D878BC /* MyStateObject.swift in Sources */,
 				F010C24F27A17CB90055FAB3 /* MyButtonTest.swift in Sources */,
+				F05E3CD727A3D4B400D878BC /* MyObservableObject.swift in Sources */,
 				F010C24427A177C30055FAB3 /* SF_symbols.swift in Sources */,
 				F01CB7AC27A1900900066F97 /* MyListTest.swift in Sources */,
+				F05E3CD327A3CE0600D878BC /* MyState.swift in Sources */,
 				F01D5D9627A2D37800E92716 /* MyPlaceholder.swift in Sources */,
 				F010C23727A170F40055FAB3 /* ContentView.swift in Sources */,
+				F05E3CD927A3D8D400D878BC /* MyEnvironmentView.swift in Sources */,
 				F01D5D8A27A2BB5000E92716 /* MywebView.swift in Sources */,
+				F05E3CD527A3D13400D878BC /* MybindView.swift in Sources */,
 				F0DF58DE27A39B1F001652C7 /* MyToggleBasic.swift in Sources */,
 				F0DF58DC27A399FB001652C7 /* MyTabview.swift in Sources */,
+				F05E3CDD27A3E16C00D878BC /* MyAppStoreage.swift in Sources */,
 				F01CB7AA27A1876C00066F97 /* MyToggleTest.swift in Sources */,
 				F01CB7AE27A2AD0900066F97 /* MyListSection.swift in Sources */,
 				F010C23527A170F40055FAB3 /* Inf_BasicApp.swift in Sources */,
 				F01CB7B227A2B76000066F97 /* Myalertview.swift in Sources */,
+				F05A621527A3C9D300D0FC00 /* Myscrollview.swift in Sources */,
 				F010C24B27A179AD0055FAB3 /* Shape.swift in Sources */,
 				F01CB7B027A2B3F200066F97 /* My viewmodifier.swift in Sources */,
 				F01D5D9827A2D64E00E92716 /* MynavigationView.swift in Sources */,

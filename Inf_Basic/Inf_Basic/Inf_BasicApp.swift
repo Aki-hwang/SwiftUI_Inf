@@ -11,7 +11,8 @@ import SwiftUI
 struct Inf_BasicApp: App {
     var body: some Scene {
         WindowGroup {
-            MyTextEditor()
+            MyEnvironmentView().environmentObject(Myinfo2())
+        
         }
     }
 }
