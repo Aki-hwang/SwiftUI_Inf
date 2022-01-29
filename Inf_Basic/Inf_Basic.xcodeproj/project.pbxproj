@@ -34,6 +34,7 @@
 		F05E3CD927A3D8D400D878BC /* MyEnvironmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05E3CD827A3D8D400D878BC /* MyEnvironmentView.swift */; };
 		F05E3CDB27A3DD9F00D878BC /* MyStateObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05E3CDA27A3DD9F00D878BC /* MyStateObject.swift */; };
 		F05E3CDD27A3E16C00D878BC /* MyAppStoreage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05E3CDC27A3E16C00D878BC /* MyAppStoreage.swift */; };
+		F05EA3F327A4E56D002338D8 /* Circular progress.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05EA3F227A4E56D002338D8 /* Circular progress.swift */; };
 		F0CF8DCA27A3A493007653F7 /* MyTextEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0CF8DC927A3A493007653F7 /* MyTextEditor.swift */; };
 		F0CF984027A42D1000A21399 /* MygridApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0CF983F27A42D1000A21399 /* MygridApp.swift */; };
 		F0CF986027A4D7BC00A21399 /* MynetworkJon.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0CF985F27A4D7BC00A21399 /* MynetworkJon.swift */; };
@@ -71,6 +72,7 @@
 		F05E3CD827A3D8D400D878BC /* MyEnvironmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyEnvironmentView.swift; sourceTree = "<group>"; };
 		F05E3CDA27A3DD9F00D878BC /* MyStateObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStateObject.swift; sourceTree = "<group>"; };
 		F05E3CDC27A3E16C00D878BC /* MyAppStoreage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAppStoreage.swift; sourceTree = "<group>"; };
+		F05EA3F227A4E56D002338D8 /* Circular progress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Circular progress.swift"; sourceTree = "<group>"; };
 		F0CF8DC927A3A493007653F7 /* MyTextEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTextEditor.swift; sourceTree = "<group>"; };
 		F0CF983F27A42D1000A21399 /* MygridApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MygridApp.swift; sourceTree = "<group>"; };
 		F0CF985F27A4D7BC00A21399 /* MynetworkJon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MynetworkJon.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				F010C23627A170F40055FAB3 /* ContentView.swift */,
 				F010C23827A170F50055FAB3 /* Assets.xcassets */,
 				F0CF985F27A4D7BC00A21399 /* MynetworkJon.swift */,
+				F05EA3F227A4E56D002338D8 /* Circular progress.swift */,
 				F0CF986127A4D85D00A21399 /* MyWebService.swift */,
 				F01CB7AB27A1900900066F97 /* MyListTest.swift */,
 				F01CB7AD27A2AD0900066F97 /* MyListSection.swift */,
@@ -236,6 +239,7 @@
 				F010C24427A177C30055FAB3 /* SF_symbols.swift in Sources */,
 				F01CB7AC27A1900900066F97 /* MyListTest.swift in Sources */,
 				F0CF986227A4D85D00A21399 /* MyWebService.swift in Sources */,
+				F05EA3F327A4E56D002338D8 /* Circular progress.swift in Sources */,
 				F05E3CD327A3CE0600D878BC /* MyState.swift in Sources */,
 				F01D5D9627A2D37800E92716 /* MyPlaceholder.swift in Sources */,
 				F0CF984027A42D1000A21399 /* MygridApp.swift in Sources */,
