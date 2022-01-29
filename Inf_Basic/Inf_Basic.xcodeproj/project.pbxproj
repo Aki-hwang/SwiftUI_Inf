@@ -36,6 +36,8 @@
 		F05E3CDD27A3E16C00D878BC /* MyAppStoreage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F05E3CDC27A3E16C00D878BC /* MyAppStoreage.swift */; };
 		F0CF8DCA27A3A493007653F7 /* MyTextEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0CF8DC927A3A493007653F7 /* MyTextEditor.swift */; };
 		F0CF984027A42D1000A21399 /* MygridApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0CF983F27A42D1000A21399 /* MygridApp.swift */; };
+		F0CF986027A4D7BC00A21399 /* MynetworkJon.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0CF985F27A4D7BC00A21399 /* MynetworkJon.swift */; };
+		F0CF986227A4D85D00A21399 /* MyWebService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0CF986127A4D85D00A21399 /* MyWebService.swift */; };
 		F0DF58DC27A399FB001652C7 /* MyTabview.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0DF58DB27A399FB001652C7 /* MyTabview.swift */; };
 		F0DF58DE27A39B1F001652C7 /* MyToggleBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0DF58DD27A39B1F001652C7 /* MyToggleBasic.swift */; };
 /* End PBXBuildFile section */
@@ -71,6 +73,8 @@
 		F05E3CDC27A3E16C00D878BC /* MyAppStoreage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAppStoreage.swift; sourceTree = "<group>"; };
 		F0CF8DC927A3A493007653F7 /* MyTextEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTextEditor.swift; sourceTree = "<group>"; };
 		F0CF983F27A42D1000A21399 /* MygridApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MygridApp.swift; sourceTree = "<group>"; };
+		F0CF985F27A4D7BC00A21399 /* MynetworkJon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MynetworkJon.swift; sourceTree = "<group>"; };
+		F0CF986127A4D85D00A21399 /* MyWebService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyWebService.swift; sourceTree = "<group>"; };
 		F0DF58DB27A399FB001652C7 /* MyTabview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTabview.swift; sourceTree = "<group>"; };
 		F0DF58DD27A39B1F001652C7 /* MyToggleBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyToggleBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -114,6 +118,8 @@
 				F010C23427A170F40055FAB3 /* Inf_BasicApp.swift */,
 				F010C23627A170F40055FAB3 /* ContentView.swift */,
 				F010C23827A170F50055FAB3 /* Assets.xcassets */,
+				F0CF985F27A4D7BC00A21399 /* MynetworkJon.swift */,
+				F0CF986127A4D85D00A21399 /* MyWebService.swift */,
 				F01CB7AB27A1900900066F97 /* MyListTest.swift */,
 				F01CB7AD27A2AD0900066F97 /* MyListSection.swift */,
 				F01CB7AF27A2B3F200066F97 /* My viewmodifier.swift */,
@@ -222,12 +228,14 @@
 				F01D5D8C27A2BE6900E92716 /* Mywebview2.swift in Sources */,
 				F01D5D9227A2D01400E92716 /* MyWebViewJsbridge.swift in Sources */,
 				F01D5D8E27A2C08400E92716 /* MywebviewController.swift in Sources */,
+				F0CF986027A4D7BC00A21399 /* MynetworkJon.swift in Sources */,
 				F01D5D9427A2D04900E92716 /* MyGrid.swift in Sources */,
 				F05E3CDB27A3DD9F00D878BC /* MyStateObject.swift in Sources */,
 				F010C24F27A17CB90055FAB3 /* MyButtonTest.swift in Sources */,
 				F05E3CD727A3D4B400D878BC /* MyObservableObject.swift in Sources */,
 				F010C24427A177C30055FAB3 /* SF_symbols.swift in Sources */,
 				F01CB7AC27A1900900066F97 /* MyListTest.swift in Sources */,
+				F0CF986227A4D85D00A21399 /* MyWebService.swift in Sources */,
 				F05E3CD327A3CE0600D878BC /* MyState.swift in Sources */,
 				F01D5D9627A2D37800E92716 /* MyPlaceholder.swift in Sources */,
 				F0CF984027A42D1000A21399 /* MygridApp.swift in Sources */,
